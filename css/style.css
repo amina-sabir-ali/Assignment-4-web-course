@@ -1,0 +1,89 @@
+*{
+    list-style-type: none;
+}
+
+/* ---------------NavBar Section Start------------------- */
+
+.navbar {
+    background-color:#424242 !important;
+    color: black;
+    margin: 0rem !important;
+    padding: 0rem !important;
+    padding-right: 1rem !important;
+    border-bottom:0.2rem solid #ffca28;
+}
+
+.nav-link{
+    color:#ffca28 !important;
+    font-weight: bold !important;
+    padding:0.8rem !important;
+    margin: 0.1rem !important;
+    border-radius: 0.5rem;
+    margin-top: 0rem !important;
+}
+.active,.nav-link:hover{
+    background-color: #ffca28 !important;
+    color: black !important;
+}
+.navbar-toggler,.navbar-toggler:active{
+    background-color:#ffca28 !important;
+}
+
+.navbar-brand img{
+    width:6rem;
+    height:5rem;
+    margin: 0rem !important;
+    padding: 0rem !important;
+}
+
+/* ---------------NavBar Section Ends------------------- */
+/* ---------------Carousel Section Start---------------- */
+.carousel-caption{
+    color: black;
+}
+.carousel-caption p{
+    font-style: italic;
+}
+/* ---------------Carousel Section Ends---------------- */
+/* ---------------Feature Product Section Start---------------- */
+#feature-product-heading{
+    padding: 1rem;
+    text-align: center;
+    margin: 1rem;
+    /* color: #ffca28; */
+    /* background-color: #424242; */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 0rem;
+    padding-bottom: 0rem;
+    /* border-bottom:0.2rem solid #ffca28; */
+}
+
+.card{
+    text-align: center;
+    margin: 0rem;
+    padding: 0rem;
+}
+.fa-star{
+    color: #ffca28 !important;
+}
+/* ---------------Feature Product Section Ends---------------- */
+.aside-card-section{
+    background-color:White !important;
+}
+/* ---------------- Footer Section Start ------------------ */
+.page-footer{
+    background-color: #424242;
+    color:white;
+}
+.links a{
+    color: white;
+    font-weight: bold;
+}
+.fas{
+    color: #ffca28;
+}
+.fab{
+    color: #ffca28;
+}
+
+/* ---------------- Footer Section Ends ------------------ */

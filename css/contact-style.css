@@ -1,0 +1,39 @@
+/* Map */
+.map-container{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    }
+    .map-container iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+    }
+
+/* Map ends */
+/* contact form section start */
+.contact-form-sec{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+.bt-sub{
+    background-color:#ffca28;
+    color: black;
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-top: 1rem;
+}
+/*  contact form section ends */
+.short-info-section{
+    text-align: center;
+    font-size: 1rem;
+    padding-top: 6rem;
+}
+.icon-img-cs{
+    width:2rem;
+    height: 2rem;
+}
+
